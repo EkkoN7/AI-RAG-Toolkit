@@ -1,4 +1,4 @@
-# AI-RAG-Toolkit
+# AI-RAG-Toolkit [In Progress]
 
 A versatile Retrieval-Augmented Generation (RAG) toolkit designed for exploring and integrating various AI models, including local LLMs (via Ollama) and API-based services (such as Gemini and ChatGPT). This project aims to be a flexible platform for experimenting with advanced RAG architectures and other AI functionalities.
 
